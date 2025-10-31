@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useState } from "react";
 
 const navItems = [
@@ -21,7 +22,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 bg-white/90 backdrop-blur supports-[backdrop-filter]:bg-white/70 border-b border-zinc-200">
       <div className="mx-auto max-w-7xl px-4 py-3 flex items-center justify-between gap-4">
         <Link href="/" className="flex items-center gap-3">
-          <div className="h-9 w-9 rounded bg-amber-500" aria-hidden />
+          <Image src="/images/shared/logo.svg" alt="Annamalai Builders" width={36} height={36} />
           <span className="text-xl font-semibold tracking-tight text-zinc-900">
             Annamalai Builders
           </span>
