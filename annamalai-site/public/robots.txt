@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://annamalai-site.onrender.com
+Host: https://annamalaibuilder-hmjv89j81-xandera2026-stars-projects.vercel.app
 
 # Sitemaps
-Sitemap: https://annamalai-site.onrender.com/sitemap.xml
+Sitemap: https://annamalaibuilder-hmjv89j81-xandera2026-stars-projects.vercel.app/sitemap.xml
