@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   title: "Annamalai Builders | Chennai Construction Experts",
   description:
     "Quality construction and renovation in Chennai. On-time delivery, transparent pricing, and end-to-end project management.",
-  metadataBase: new URL("https://annamalai-site.onrender.com"),
+  metadataBase: new URL("https://annamalaibuilder-hmjv89j81-xandera2026-stars-projects.vercel.app"),
   openGraph: {
     title: "Annamalai Builders | Chennai Construction Experts",
     description:
