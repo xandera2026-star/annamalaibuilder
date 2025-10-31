@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://example-onrender-url.onrender.com
+
+# Sitemaps
+Sitemap: https://example-onrender-url.onrender.com/sitemap.xml
